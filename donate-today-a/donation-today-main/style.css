@@ -1,0 +1,241 @@
+*{
+    margin: 0;
+
+}
+body{
+    background: darkgray;
+}
+.header{
+    height: 500px;
+    background-image: url(./donate-today-main/donate-today.png);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    display: block;
+}
+.header-title{
+    font-weight: 800;
+    font-size: 45px;
+    text-align: center;
+    color: blueviolet;
+    padding:30px 60px;
+}
+.title-description{
+
+    text-align: center;
+    padding: 200px 200px 200px 200px;
+    color: blueviolet;
+
+}
+.btn-donet{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+.btn-primary{
+    color: antiquewhite;
+    background: #FD6E0A;
+    font-weight: 700;
+    padding: 36px 40px;
+    border-radius: 5px;
+    border: 0;
+    align-items: center;
+}
+.btn-decoration{
+    list-style: none;
+    display: flex;
+    padding: 60px;
+    justify-content: space-around;
+}
+.btn-title{
+    background: aqua;
+    font-weight: 700;
+    font-size: 48px;
+    height: 100px;
+    padding: 20px;
+    border-radius: 5px;
+    
+}
+.don-to{
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+    color: blue;
+    padding-top: 40px;
+    text-decoration: underline rosybrown;
+}
+.description{
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+.Other-title{
+    text-align: center;
+    font-weight: 400;
+    font-size: 30px;
+}
+.donate-now{
+    font-weight: 400;
+    font-size: 50px;
+    margin: 10px;
+    padding: 30px 30px;
+    background: #FD6E0A;
+    border-radius: 0;
+    text-align: center;
+    border-radius: 10px;
+}
+.new-title{
+    list-style: none;
+    text-align: center;
+    text-decoration: overline greenyellow;
+}
+.plan{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 356px;
+    padding-right: 356px;
+    border: 5px;
+    border-radius: 0;
+   
+}
+.plan-title{
+    color: green;
+    font-weight: 600px;
+    font-size: 50px;
+    padding-top: 60px;
+    padding-bottom: 50px;
+    text-decoration: underline yellowgreen;
+}
+.box-title{
+    display: flex;
+    margin: 30px 100px;
+    gap: 30px; 
+}
+.box-style{
+    box-shadow: 0px, 6px, 54px rgba(0, 0, 0, 6px);
+    margin: 5px;
+    background-color: antiquewhite;
+    width: 325px;
+    height: 300px;
+    padding: 30px;
+}
+.head-style{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    color: #FD6E0A;
+}
+.lives-box{
+    background: bisque;
+    display: flex;
+    gap: 17px;
+}
+.description-donate{
+    text-align: center;
+}
+.your-donstion{
+    padding: 50px 50px;
+    margin: 5px;
+    font-weight: 400; 
+
+}
+.lives-depend{
+    padding-bottom: 20px;
+    text-align: center;
+    font-weight: 200;
+    font-size: 30px;
+    color: plum;
+    text-decoration: underline;
+}
+.your-description{
+    padding-top: 20px;
+    text-align: center;
+}
+.how-contribute{
+    padding-top: 50px;
+    align-items: center;
+}
+.button{
+    text-align: center;
+    padding-top: 20px;
+    
+   
+    
+}
+.pic-size{
+    width: 600px;
+    padding: 40px;
+}
+.how-contribute{
+   align-items: center;
+    background-color: #FD6E0A;
+    padding: 15px;
+    border: 0px;
+    border-radius: 5px;
+}
+
+.box-title-a{
+    background: cadetblue;
+    display: flex;
+    gap: 20px;
+    padding-top: 30px;
+}
+
+.git-my{
+    padding-top: 30px;
+    text-align: center;
+}
+.my-up{
+    font-weight: 300;
+    font-size: 45px;
+    color: cyan;
+    text-decoration: underline;
+}
+.git-dtls{
+    padding-top: 20px;
+    margin-left: 360px;
+    margin-right: 360px;
+}
+.box-email{
+    margin: 20px 20%;
+    display: flex;
+    list-style: none;
+    background: oldlace;
+    align-items: center;
+    width: 60%;
+    height: 130px;
+    text-align:center;
+    
+    
+}
+.em-subsc{
+    margin: 30%;
+
+   
+}
+.e-subsc{
+    padding: 14px;
+}
+.subsc{
+    padding: 14px;
+    background-color: #FD6E0A;
+    border-radius: 7px;
+}
+
+.footer{
+    background-color: black;
+    height: 140px;
+    color: #FD6E0A;
+    align-items: center;
+    justify-content: center;
+}
+.be{
+    text-align: center;
+    font-size: 50px;
+    font-weight:bold;
+}
+.do-it{
+    text-align: center;
+    font-weight: bold;
+}
